@@ -1,0 +1,35 @@
+_repo: Aunt-Jane-s-Nieces-out-West_10432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: The follow-up to the smash hit Aunt Jane's Nieces, Aunt Jane's Nieces
+  Abroad is the second in the series of ten novels that Wizard of Oz creator L. Frank
+  Baum penned for young adults at the dawn of the twentieth century. This entry follows
+  the travels of wacky baron John Merrick as he takes his three nieces on a grand
+  tour of Europe.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'California, Southern -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- GITenberg
+title: Aunt Jane's Nieces out West
+url: http://www.gutenberg.org/ebooks/10432

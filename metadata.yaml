@@ -1,5 +1,8 @@
 _repo: Aunt-Jane-s-Nieces-out-West_10432
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -17,6 +20,8 @@ description: The follow-up to the smash hit Aunt Jane's Nieces, Aunt Jane's Niec
   Baum penned for young adults at the dawn of the twentieth century. This entry follows
   the travels of wacky baron John Merrick as he takes his three nieces on a grand
   tour of Europe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10432#Aunt-Jane-s-Nieces-out-West
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
